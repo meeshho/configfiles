@@ -9,5 +9,8 @@ if status is-interactive
     alias home "cd"
     alias vim "nvim"
     alias python "python3"
+    # node aliases
+    alias ys "yarn start"
+    alias yt "yarn test"
 
 end
